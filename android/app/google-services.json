@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811974847519",
+    "project_id": "hamromart-8ff18",
+    "storage_bucket": "hamromart-8ff18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811974847519:android:8d09e301e699b3eb90792a",
+        "android_client_info": {
+          "package_name": "com.example.hamromart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdT7pvczWW8hDmGosnwj4kxMuuXbM8ndY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
